@@ -1,0 +1,4 @@
+- get an embedding for text
+- search closest embedding
+- categorise text (two dimensions)
+- typesense >>> search
